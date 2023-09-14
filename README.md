@@ -1,0 +1,2 @@
+# mingo.test
+testOCR
